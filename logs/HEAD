@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 a1e1a526b626834ecfd7a67b222fc7384ca080a0 Rizwan <rizwan@vrguest.com> 1563460563 +0500	commit (initial): init
-a1e1a526b626834ecfd7a67b222fc7384ca080a0 e516250946fa3725cdf06340021ed6aee8e9f413 Rizwan <rizwan@vrguest.com> 1563461619 +0500	commit: added vuetify
-e516250946fa3725cdf06340021ed6aee8e9f413 fd09eb4ea92428b3c9c4858a7e4ad6b1fd43e19c Rizwan <rizwan@vrguest.com> 1563464172 +0500	commit: routers added
-fd09eb4ea92428b3c9c4858a7e4ad6b1fd43e19c a73c0648bc4ef4a414a50b1fd0000235699ba2ea Rizwan <rizwan@vrguest.com> 1563537966 +0500	commit: firebase db attached
